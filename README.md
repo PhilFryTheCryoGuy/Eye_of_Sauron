@@ -1,5 +1,5 @@
 # Eye_of_Sauron
-Arduino code to control a Adafruit NeoPixel using an Adafruit Trinket M0 and 3mm IR Sensors for a dice tower. The tower itself is being 3-D printed on a UP Mii 2, the design of the tower can be found at https://www.thingiverse.com/thing:3026187
+Arduino code to control a Adafruit NeoPixel using an Adafruit Trinket M0 and 3mm IR Sensors for a dice tower. The tower itself is being 3-D printed on a UP Mini 2, the design of the tower can be found at https://www.thingiverse.com/thing:3026187
 
 MIT License
 
